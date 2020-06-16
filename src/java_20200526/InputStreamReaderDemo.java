@@ -13,7 +13,6 @@ public class InputStreamReaderDemo {
 		BufferedReader br = null;
 		
 		byte [] b = new byte[100];
-		//졸려죽겠을땐 뭔가를 생각하면서 타자라도 치세요 그게뭐든지
 		try {
 			//in.read(b) : 키보드에 입력을 기다리고 있는 것 -> enter -> 키보드에 입력한 데이터를 b에 저장
 			

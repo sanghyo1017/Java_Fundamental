@@ -1,5 +1,5 @@
 package java_20200525;
-
+//인위적인 예외 발생시키는 방법 : throw
 public class ThrowDemo {
 	
 	public static double withdraw(String account, int amount)

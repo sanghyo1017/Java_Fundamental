@@ -1,5 +1,6 @@
 package java_20200525;
-
+//예외처리하는 방법2 : throws
+//=>메서드에서 발생된 예외를 호출한 메서드에게 넘겨주는 방법.
 public class ThrowsDemo {
 	public static int getDivide(int first, int second) 
 			throws ArithmeticException {

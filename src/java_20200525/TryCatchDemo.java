@@ -1,5 +1,6 @@
 package java_20200525;
-
+//예외처리하는 방법 1 : try-catch-finally 
+//=>예외가 발생한 메서드 내에서 처리하는 방법.
 public class TryCatchDemo {
 	
 	public static double getAvg(int first, int second) {
